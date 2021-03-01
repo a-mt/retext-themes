@@ -1,6 +1,8 @@
+# ~/.config/ReText project/github.css
+
 body
 {
-    font-size:15px;
+    font-size:12pt;
     line-height:1.7;
     overflow-x:hidden;
 
@@ -141,7 +143,7 @@ body dl
 
 body dl dt
 {
-  font-size:14px;
+  font-size:12pt;
   font-style:italic;
   font-weight:700;
   margin-top:15px;
@@ -321,7 +323,7 @@ body code
 
 code,pre{
   font-family:Consolas, "Liberation Mono", Courier, monospace;
-  font-size:12px
+  font-size:11pt;
 }
 
 body pre>code
@@ -337,7 +339,7 @@ body .highlight pre,body pre
 {
   background-color:#f8f8f8;
   border:1px solid #ddd;
-  font-size:13px;
+  font-size:11pt;
   line-height:19px;
   overflow:auto;
   padding:6px 10px;
